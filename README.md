@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Diya Saha</h1>
-<h3 align="center">A passionate evangelist at the confluence of Machine Learning and Cybersecurity, committed to deciphering the enigma of digital threats and harnessing AI to build a more resilient future.</h3>
+<h3 align="center">A passionate evangelist at the confluence of Machine Learning and Cybersecurity, committed to understanding digital threats and using AI to improve security.</h3>
 
 <img align='right' src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif" width="250">
 
